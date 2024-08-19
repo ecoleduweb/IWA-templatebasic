@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid black;
+  width: 200px;
+  height: 300px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.face-down {
+  background-color: silver;
+}
+
+.face-up {
+  background-color: yellowgreen;
+}
